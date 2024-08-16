@@ -1,5 +1,3 @@
-
-
 # Tic-Tac-Toe Program using
 # random number in Python
  
